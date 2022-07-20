@@ -6,6 +6,7 @@ provider "registry.terraform.io/hashicorp/hcp" {
   constraints = "0.36.0"
   hashes = [
     "h1:EFQnkzeg2I7qf0TFSjDksAJmkS0IkAGeojNrtu7xTY0=",
+    "h1:HtPOAlH0bKfbaJU/L0y9Fk1btHyrbwOC5vxyZstNyp4=",
     "zh:0fa82a384b25a58b65523e0ea4768fa1212b1f5cfc0c9379d31162454fedcc9d",
     "zh:1e642dccf873880f3921ca4546f4b671f8b54b106438092bc3929513da16728f",
     "zh:2bc52134f65caa5a83c7c2da4fcc5991a4aacf2ebfd093b613f1155852e35641",
