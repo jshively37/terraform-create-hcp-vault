@@ -8,3 +8,8 @@ repos:
         args:
         - --args=-json
         - --args=-no-color
+      - id: terraform_fmt
+        args:
+          - --args=-no-color
+          - --args=-diff
+          - --args=-write=false
