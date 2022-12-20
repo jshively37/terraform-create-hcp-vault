@@ -36,13 +36,3 @@ variable "hcp_vault_tier" {
 variable "hcp_vault_public_endpoint_bool" {
   description = "Boolean to enable/disable public endpoint."
 }
-
-variable "username" {
-  type        = string
-  description = "Username to be created in userpass"
-}
-
-variable "password" {
-  type        = string
-  description = "Password to be created for the user in userpass"
-}

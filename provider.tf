@@ -12,5 +12,4 @@ terraform {
 }
 
 provider "hcp" {
-  # Configuration options
 }

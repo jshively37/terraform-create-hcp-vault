@@ -2,7 +2,7 @@
 
 **WIP**
 
-This module will setup an HCP Vault cluster and configure any necessary HVN.
+This module will create an HCP Vault cluster and configure any necessary HVN.
 
 ## Dependancies
 
