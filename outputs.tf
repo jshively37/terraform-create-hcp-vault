@@ -5,3 +5,8 @@ output "hcp_vault_public_url" {
 output "hcp_vault_private_url" {
   value = resource.hcp_vault_cluster.hcp_cluster.vault_private_endpoint_url
 }
+
+output "hcp_vault_admin_token" {
+  value = resource.hcp_vault_cluster_admin_token.admin_token.token
+  sensitive = true
+}
